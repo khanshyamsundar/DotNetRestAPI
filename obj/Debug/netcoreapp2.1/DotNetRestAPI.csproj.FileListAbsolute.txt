@@ -1,0 +1,14 @@
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/bin/Debug/netcoreapp2.1/DotNetRestAPI.deps.json
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/bin/Debug/netcoreapp2.1/DotNetRestAPI.runtimeconfig.json
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/bin/Debug/netcoreapp2.1/DotNetRestAPI.runtimeconfig.dev.json
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/bin/Debug/netcoreapp2.1/DotNetRestAPI.dll
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/bin/Debug/netcoreapp2.1/DotNetRestAPI.pdb
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/obj/Debug/netcoreapp2.1/DotNetRestAPI.csprojAssemblyReference.cache
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/obj/Debug/netcoreapp2.1/DotNetRestAPI.csproj.CoreCompileInputs.cache
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/obj/Debug/netcoreapp2.1/DotNetRestAPI.RazorAssemblyInfo.cache
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/obj/Debug/netcoreapp2.1/DotNetRestAPI.RazorAssemblyInfo.cs
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/obj/Debug/netcoreapp2.1/DotNetRestAPI.AssemblyInfoInputs.cache
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/obj/Debug/netcoreapp2.1/DotNetRestAPI.AssemblyInfo.cs
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/obj/Debug/netcoreapp2.1/DotNetRestAPI.RazorTargetAssemblyInfo.cache
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/obj/Debug/netcoreapp2.1/DotNetRestAPI.dll
+/Volumes/Sundar/Work/Learning/DotNet/DotNetRestAPI/obj/Debug/netcoreapp2.1/DotNetRestAPI.pdb
